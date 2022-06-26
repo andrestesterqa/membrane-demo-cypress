@@ -1,0 +1,36 @@
+{
+    "logotype": ".styles_appTitle__qn1G-",
+    "textLogotype": "Membrane",
+    "signUpText": " Sign Up",
+    "requiredField": ".styles_span__25oNl",
+    "requiredFieldsText": "*Required fields",
+    "firtsNameLabel": "label[for='firstName']",
+    "TextfirtsNameLabel": "First Name *",
+    "lastNameLabel": "label[for='lastName']",
+    "TextlastNameLabel": "Last Name *",
+    "EmailLabel": "label[for='email']",
+    "phoneLabel": ".styles_phoneNumber__2i-u9 > :nth-child(1)",
+    "inputName": "input[placeholder='Enter your first name here']",
+    "inputNamePlaceholder": "Enter your first name here",
+    "inputLastName": "input[placeholder='Enter your last name here']",
+    "inputLastNamePlaceholder": "Enter your last name here",
+    "inputEmail": "input[placeholder='Enter your email here']",
+    "inputNumber": "input[name='number']",
+    "dropDownCountry": "input[name='country']",
+    "textHaveAccount": "Already have an account?",
+    "textContactSupport": "Contact Membrane Support",
+    "urlMail": "mailto:support@membrane.trade",
+    "get2fa": "Get the 2FA app",
+    "urlGet2fa": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
+    "messageError": "This field is required",
+    "submitButton": "button[type='submit']",
+    "country": {
+        "Ar": "Argentina +54",
+        "Ca": "Canada +1",
+        "Ger": "Germany +49",
+        "Esp": "España +34",
+        "USA": "United States +1",
+        "Bra": "Brasil +55"
+    }
+
+}
